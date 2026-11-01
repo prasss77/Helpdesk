@@ -1,0 +1,6 @@
+APP_NAME="Helpdesk API"
+DB_HOST=masukan host 
+DB_PORT=5433
+DB_NAME=masukan database
+DB_USER=masukan user
+DB_PASSWORD=masukan password
